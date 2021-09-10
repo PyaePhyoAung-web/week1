@@ -2,7 +2,8 @@
 
 "headers":{
 "/*":{
-      "X-Author": "pyaephyoaung"      
+      "X-Author": "pyaephyoaung",      
+      "Access-Control-Allow-Origin": "*"
       }
    }
 
